@@ -9,7 +9,7 @@
 * [abc](abc.md)
   * [ccc](abc/ccc.md)
 * [1](1.md)
-* 2
+* [2](2.md)
 * 3
 * 4
 * 5
